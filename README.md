@@ -67,4 +67,13 @@ devops-git-project/
 └── docs/
     └── tasks.md
 
+## Learning Outcomes
+
+This project provides practical experience with:
+
+- Git repository management
+- Branching strategies
+- Pull Requests
+- Version tagging
+- Collaborative development
 # END
